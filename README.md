@@ -1,8 +1,7 @@
 
-# Supervised Learning
-## Finding Donors for CharityML
+## Supervised Learning - Finding Donors for CharityML
 
-## Project Overview
+### Project Overview
 In this project, I apply supervised learning techniques and analytical methods on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. I explore the data to learn how the census data is recorded. Next, I apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. I then evaluate several supervised learners on the data, and consider which is best suited for the solution. Afterwards, I optimize the model I've selected and present it as a solution to CharityML. Finally, I explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 
 ### Data
@@ -34,4 +33,4 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-I completed this project as a part of the Udacity Data Scientist Nanodegree program.  
+I completed this project as a part of the Udacity [Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).  
