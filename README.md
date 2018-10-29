@@ -33,4 +33,4 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-I completed this project as a part of the Udacity [Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).  
+I completed this project as a part of the Udacity Data Scientist Nanodegree program.
